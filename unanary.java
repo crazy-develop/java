@@ -10,6 +10,7 @@ public class unanary {
         System.out.println(c);
         System.out.println(d);
 
+        
     }
     
 }
